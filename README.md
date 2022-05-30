@@ -1,0 +1,2 @@
+# FFmpeg_Android_Demo
+Android平台上使用FFmpeg进行一些音视频相关处理开发的demo集合仓库
